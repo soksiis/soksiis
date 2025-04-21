@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🇪🇸 I'm a 19-year-old cybersecurity student from Spain.
+- 🇪🇸 I'm a 19-year-old cybersecurity enthusiast from Spain.
 - 🔒 Passionate about ethical hacking.
 
 ---
@@ -21,6 +21,4 @@
 
 ### 📌 Featured Repositories
 
-➡️ [Active-Directory-Attacks](https://github.com/TUUSUARIO/Active-Directory-Attacks)  
-➡️ [Custom-Scripts](https://github.com/TUUSUARIO/Custom-Scripts)  
-➡️ [CTF-Writeups](https://github.com/TUUSUARIO/CTF-Writeups)
+➡️ [CTF-Writeups](https://github.com/soksiis/HTB-Writeups)
