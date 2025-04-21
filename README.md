@@ -21,4 +21,4 @@
 
 ### 📌 Featured Repositories
 
-➡️ [CTF-Writeups](https://github.com/soksiis/HTB-Writeups)
+➡️ [HTB-Writeups](https://github.com/soksiis/HTB-Writeups)
