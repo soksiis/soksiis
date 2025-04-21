@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Marc 👋</h1>
+<p align="center">
+  💻 Aspiring offensive security specialist | 🎯 Focused on real-world pentesting 
+</p>
 
-<!--
-**soksiis/soksiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🇪🇸 I'm a 19-year-old cybersecurity student from Spain.
+- 🔒 Passionate about ethical hacking.
+
+---
+
+### 🔗 Find Me Online
+
+- 🧰 [Hack The Box](https://app.hackthebox.com/users/1675747)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marc-martinez-06027217a/)
+
+---
+
+### 📌 Featured Repositories
+
+➡️ [Active-Directory-Attacks](https://github.com/TUUSUARIO/Active-Directory-Attacks)  
+➡️ [Custom-Scripts](https://github.com/TUUSUARIO/Custom-Scripts)  
+➡️ [CTF-Writeups](https://github.com/TUUSUARIO/CTF-Writeups)
