@@ -9,7 +9,8 @@
 
 - 🇪🇸 I'm a 19-year-old cybersecurity enthusiast from Spain.
 - 🔒 Passionate about ethical hacking.
-
+- I’ve been into cybersecurity since early 2024.
+  
 ---
 
 ### 🔗 Find Me Online
