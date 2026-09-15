@@ -1,65 +1,60 @@
-Hi, I'm Marc Martinez
+<div align="center">
 
-Junior cybersecurity practitioner based in Barcelona, focused on offensive security and penetration testing.
+# Hi, I'm Marc Martinez
 
-I have been developing hands-on cybersecurity skills since 2023 through Hack The Box, HTB Academy and personal lab environments. I am eJPT certified and currently preparing for the Hack The Box Certified Penetration Testing Specialist (CPTS).
+### Junior Offensive Security Practitioner | eJPT | CPTS in Progress
 
-Offensive Security Experience
+Based in Barcelona, Spain · Focused on penetration testing and offensive security
 
-Completed more than 100 Hack The Box machines across Linux and Windows environments
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-martinez-06027217a/)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Profile-9FEF00?style=flat-square&logo=hackthebox&logoColor=111927)](https://app.hackthebox.com/users/1675747)
+[![eJPT](https://img.shields.io/badge/Certification-eJPT-252525?style=flat-square)](#certifications--training)
 
-Web application enumeration and exploitation
+</div>
 
-Active Directory enumeration and common attack paths
+## About Me
 
-Linux and Windows privilege escalation
+I am a junior cybersecurity practitioner focused on offensive security and penetration testing. Since 2023, I have been developing hands-on skills through Hack The Box, HTB Academy and personal lab environments.
 
-Pivoting and lateral movement in segmented networks
+- Completed more than **100 Hack The Box machines** across Linux and Windows
+- **eJPT certified** and currently preparing for the **CPTS**
+- Interested in web security, Active Directory and internal network assessments
+- Building practical, well-documented security projects for this portfolio
 
-Documentation of findings, exploitation steps and remediation guidance
+## Technical Focus
 
-Basic workflow automation with Python and Bash
+| Area | Skills and tools |
+| --- | --- |
+| **Web Security** | Web enumeration, manual testing, Burp Suite |
+| **Active Directory** | BloodHound, Impacket, Certipy, Kerbrute |
+| **Systems** | Linux, Kali Linux, Parrot OS, Windows Server |
+| **Post-Exploitation** | Linux and Windows privilege escalation, pivoting, lateral movement |
+| **Recon and Exploitation** | Nmap, Metasploit, Hashcat, John the Ripper, Ligolo-ng |
+| **Scripting** | Python and Bash for basic workflow automation |
 
-Technical Skills
+## Certifications & Training
 
-Offensive Security: Nmap, Burp Suite, BloodHound, Impacket, Certipy, Kerbrute, Ligolo-ng, Metasploit, Hashcat and John the Ripper
+- **eLearnSecurity Junior Penetration Tester (eJPT)** — INE Security
+- **Certified Penetration Testing Specialist (CPTS)** — In progress
+- **Specialized private training program in Cybersecurity & AI** — Evolve CyberSecurity Academy, 2024–2025
+- **Offensive Security Training** — Hack The Box Academy, 2023–present
 
-Security Areas: Web Pentesting, Active Directory Security, Linux and Windows Privilege Escalation, Pivoting and Lateral Movement
+## Featured Project
 
-Scripting: Python and Bash
-
-Systems: Linux, Kali Linux, Parrot OS and Windows Server
-
-Certifications and Training
-
-eLearnSecurity Junior Penetration Tester — eJPT
-
-Hack The Box Certified Penetration Testing Specialist — CPTS in progress
-
-Specialized training in Cybersecurity and AI — Evolve CyberSecurity Academy, 2024–2025
-
-Continuous offensive security training — Hack The Box Academy, 2023–present
-
-Featured Project
-
-Hack The Box Writeups
+### [Hack The Box Writeups](https://github.com/soksiis/HTB-Writeups)
 
 Documentation of retired Hack The Box machines, organized by difficulty and focused on enumeration, manual exploitation, privilege escalation and lessons learned.
 
-All content is based on authorized laboratory environments and is published strictly for educational purposes.
+> All security work presented here was performed in authorized laboratory environments and is published strictly for educational purposes.
 
-Languages
+## Languages
 
-Spanish — Native
+- Spanish — Native
+- Catalan — Native
+- English — Professional
+- French — Intermediate
 
-Catalan — Native
+## Contact
 
-English — Professional
-
-French — Intermediate
-
-Connect
-
-LinkedIn
-
-Hack The Box
+- [LinkedIn](https://www.linkedin.com/in/marc-martinez-06027217a/)
+- [Hack The Box](https://app.hackthebox.com/users/1675747)
