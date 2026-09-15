@@ -7,9 +7,9 @@
 
 ### 🧠 About Me
 
-- 🇪🇸 I'm a 19-year-old cybersecurity enthusiast from Spain.
+- 🇪🇸 I'm a 21-year-old cybersecurity enthusiast from Spain.
 - 🔒 Passionate about ethical hacking.
-- I’ve been into cybersecurity since early 2024.
+- I’ve been into cybersecurity since early 2023.
   
 ---
 
